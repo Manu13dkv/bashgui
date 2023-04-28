@@ -1,2 +1,2 @@
-# bashgui
-Simple Graphic elements for bash scripting.
+# Bash-Gui
+Simple function library for graphic elements to use in bash scripting.
